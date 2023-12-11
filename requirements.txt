@@ -3,5 +3,5 @@ pandas
 scikit-learn
 matplotlib
 openpyxl 
--U pyopenssl cryptography
+pyopenssl cryptography
 requests
