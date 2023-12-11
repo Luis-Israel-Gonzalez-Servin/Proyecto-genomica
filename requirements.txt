@@ -1,0 +1,7 @@
+biopython
+pandas
+scikit-learn
+matplotlib
+openpyxl 
+-U pyopenssl cryptography
+requests
